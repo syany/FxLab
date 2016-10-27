@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+    fx:controller="org.layout.Notes"
+    prefWidth="1240.0" prefHeight="350.0">
+  <children>
+  </children>
+</AnchorPane>
